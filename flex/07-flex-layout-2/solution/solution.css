@@ -71,6 +71,7 @@ a {
 .container {
   padding: 32px;
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
 }
 
